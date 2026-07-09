@@ -6,7 +6,7 @@ I am a Computer Science major at Purdue University specializing in AI/ML, with m
 
 ### Experiences 💻
 
-*   **Microsoft** — Software Engineering Intern | Azure Virtual Desktop cloud architecture & large-scale distributed infrastructure
+*   **Microsoft** — Software Engineering Intern | cloud architecture & large-scale distributed infrastructure for Azure Virtual Desktop (AVD)
 *   **Amazon** — Software Development Engineering Intern | *full-stack GraphQL powered app for enterprise clients across 150+ stores*
 *   **Quadrant Technologies** — Software Engineering & Data Analytics Intern | *AI-driven analytics platform and forum*
 
