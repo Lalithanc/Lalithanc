@@ -12,7 +12,7 @@ I am a Computer Science major at Purdue University specializing in AI/ML, with m
 
 ### Projects 🌻
 
-*   **DIML** — digital scrapbooking & photo journaling web app with an AI creative assistant using Next.js + TypeScript + Supabase
+*   **DIML** — digital scrapbooking & photo journaling web app with an AI-powered creative assistant using Next.js + TypeScript + Supabase
 *   **FinPal** — full-stack personal finance tracker generating real-time trends, dynamic filtering, and CSV reports using React + Node.js + SQL
 *   **Boilermaker Bazaar** — multi-threaded client-server e-commerce app for purdue students with JavaFX
 *   **SimpleC Compiler** — functional compiler for a restricted C variant using Lex + Yacc + x86-64 assembly
