@@ -19,7 +19,7 @@ I am a Computer Science major at Purdue University specializing in AI/ML, with m
 
 **What I Have Worked With 🎨**
 
-*   **Languages:** Java, Python, TypeScript, JavaScript, SQL, C#, C, Kotlin
+*   **Languages:** Java, Python, TypeScript, JavaScript, SQL, NoSQL, C#, C, Kotlin
 *   **Frameworks & Tech:** React, Node.js, Express, Flask, GraphQL, .Net, REST APIs
 *   **Cloud & Tools:** Azure, AWS, Git, Linux, DynamoDB, Copilot CLI, Claude Code
 
